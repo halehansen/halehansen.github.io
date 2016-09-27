@@ -16,6 +16,7 @@
 
 
 /*
+
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
@@ -122,9 +123,6 @@ h1 {
 
 /*About section*/
 
-#test::first-letter {
-    font-size: 225%;
-    font-weight: bold;
 }
 
 .about h4 {
